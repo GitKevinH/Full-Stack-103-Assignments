@@ -1,3 +1,5 @@
+package casting;
+
 public class Casting {
     public static void main(String[] args) {
         double varOne = 112.35;
